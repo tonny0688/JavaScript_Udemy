@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0px;
+  background-color: rgb(159, 194, 232);
+}
+.titulo {
+  text-align: center;
+  background-color: plum;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.container-t {
+  background-color: red;
+}

@@ -1,0 +1,9 @@
+var edad = prompt("Ingrese su edad: ");
+        var estatura = prompt("Ingrese su estatura: ");
+        if (edad >= 13 && estatura >= 1.2) {
+            alert("Entra")
+        }
+        else
+        {
+            alert("No cumple con los requisitos");
+        }
