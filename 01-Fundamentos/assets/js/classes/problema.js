@@ -2,6 +2,7 @@
 const anthony = {
   nombre: "Anthony",
   edad: 30,
+  //Referencia al mismo objeto.
   imprimir() {
     console.log(`Nombre es ${this.nombre}`);
   },

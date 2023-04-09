@@ -43,7 +43,7 @@ class Heroe extends Persona {
   clan = "sin clan";
 
   constructor(nombre, codigo, frase) {
-    super(nombre, codigo, frase);
+    super(nombre, codigo, frase); //llamada al constructor de la clase padre
     this.clan = "Avengers";
   }
 

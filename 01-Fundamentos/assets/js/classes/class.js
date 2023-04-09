@@ -26,6 +26,7 @@ class Persona {
     Persona._conteo += 1;
   }
 
+  //Se settea que el parametro sea en mayuscula
   set setComidaFavorita(comida) {
     this.comida = comida.toUpperCase();
   }
